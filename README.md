@@ -2,7 +2,7 @@
 
 Recent Computer Science graduate from Marquette University focused on full-stack web applications, developer tools, data-oriented systems, and practical software projects.
 
-I am currently working on software development experience.
+Currently strengthening my software development experience by building a React/Vite portfolio and documenting full-stack, systems, Unity, and robotics projects that show real project ownership, technical range, and hands-on problem solving.
 
 ## Current Focus
 - Preparing for entry-level software development, full-stack, developer tools, and technical support roles
