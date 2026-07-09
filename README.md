@@ -2,10 +2,11 @@
 
 Recent Computer Science graduate from Marquette University focused on full-stack web applications, developer tools, data-oriented systems, and practical software projects.
 
-Currently strengthening my software development experience by building a React/Vite portfolio and documenting full-stack, systems, Unity, and robotics projects that show real project ownership, technical range, and hands-on problem solving.
+Built and deployed a React/Vite portfolio documenting full-stack, systems, Unity, robotics, operating systems, and data-focused projects that show real project ownership, technical range, and hands-on problem solving.
 
 ## Current Focus
-- Preparing for entry-level software development, full-stack, developer tools, and technical support roles
+- Preparing for entry-level software development, full-stack, developer tools, data-oriented systems, and technical support roles
+- Continuing to build proof-of-work projects that connect software, systems, design, and real-world problem solving
 
 ## Featured Work
 - Personal Portfolio Website
@@ -20,6 +21,7 @@ Currently strengthening my software development experience by building a React/V
 JavaScript, TypeScript, Python, SQL, C, C#, HTML, CSS, React, Vite, Flask, Socket.IO, MySQL, Docker, Unity, Git, GitHub, Linux, WSL
 
 ## Links
-- Portfolio: markyoingco.com
+- Portfolio: https://markyoingco.com
+- GitHub: https://github.com/markyoingco
 - LinkedIn: https://www.linkedin.com/in/mark-yoingco
 - Email: markyoingco23@gmail.com
