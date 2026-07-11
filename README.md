@@ -12,10 +12,10 @@ I built and deployed a multi-mode React/Vite portfolio platform combining a cine
 
 ## Featured Work
 
-- **Personal Portfolio Platform** — React/Vite webpage and interactive terminal
-- **Abacus** — Programming competition platform
-- **TA-Bot / MAAT** — Automated homework evaluation platform
-- **Finch Web Controller** — Browser-based Finch 2.0 robotics controller
+- **Personal Portfolio Platform** - React/Vite webpage and interactive terminal
+- **Abacus** - Programming competition platform
+- **TA-Bot / MAAT** - Automated homework evaluation platform
+- **Finch Web Controller** - Browser-based Finch 2.0 robotics controller
 - **Operating Systems C Projects**
 - **Unity Game Projects**
 - **Data Science Projects**
