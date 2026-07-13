@@ -8,7 +8,7 @@ I built and deployed a multi-mode React/Vite portfolio platform combining a cine
 
 - Preparing for entry-level software development, full-stack, developer tools, data-oriented systems, and technical support roles
 - Building proof-of-work projects that connect software, systems, design, and real-world problem solving
-- Developing MarkGPT, a conversational portfolio assistant
+- Developing MarkAI, a conversational portfolio assistant
 
 ## Featured Work
 
