@@ -16,7 +16,7 @@ I have also contributed to senior design projects, robotics software, systems pr
 
 - Applying for entry-level software development and technical roles
 - Maintaining and improving my portfolio platform and MarkAI
-- Continuing to strengthen my technical foundation through practical projects and professional learning
+- Working toward additional professional certificates while continuing to strengthen my technical foundation through practical projects
 - Building software that demonstrates ownership, testing, debugging, deployment, and continuous improvement
 
 ---
